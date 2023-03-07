@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LabiO07
 - 👀 I’m interested in game and more interestring things.
-- 🌱 I’m currently learning c++ and Java.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ---1348757279@qq.com,if you want speak with me ,please set your proublems or what you want say to 1348757279@qq.com.
 
